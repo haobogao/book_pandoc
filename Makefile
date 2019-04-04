@@ -1,11 +1,11 @@
 BUILD = build
-BOOKNAME = my-book
+BOOKNAME = how_to_write_with_markdown
 ITLE =
 METADATA = metadata.xml
 PT=chap/
 CHAPTERS = $(PT)ch01.md $(PT)ch02.md
 TOC = --toc --toc-depth=4
-COVER_IMAGE = images/cover.jpg
+COVER_IMAGE = img/cover.jpg
 LATEX_CLASS = report
 
 
